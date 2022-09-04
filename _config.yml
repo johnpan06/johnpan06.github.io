@@ -1,2 +1,4 @@
 name: John Pan
 markdown: kramdown
+# so that posts will have "blog" in the URL
+permalink: /blog/:year/:month/:day/:title
